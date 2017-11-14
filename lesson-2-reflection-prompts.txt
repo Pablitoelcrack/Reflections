@@ -9,14 +9,23 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	By checking which files I will be commiting
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When there are two or more versons of the project which are slightly
+	different one from another. By creating two or more versons of the project
+
 How do the diagrams help you visualize the branch structure?
+
+	By telling me how the stuff is organized.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	Is like joining two similar projects together to make the respective updates.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
